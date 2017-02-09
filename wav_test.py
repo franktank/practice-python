@@ -11,6 +11,9 @@
 # http://coreygoldberg.blogspot.com/2013/06/generating-audio-spectrograms-in-python.html
 
 
+# ---- Useful Maybe for converting wav to spectrogram -----
+# https://github.com/YerevaNN/Spoken-language-identification/blob/6a470b8b7e8472eb516ec6f0a92ca0747a8dba67/augment_data.py
+
 # WAV FILES!! http://www.wavsource.com/
 
 import matplotlib
